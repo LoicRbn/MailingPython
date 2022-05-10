@@ -1,3 +1,9 @@
+Objectif : 
+- Connexion à sa boite mail via le protocole IMAP
+- Récupérer les émetteurs et les sujets des N derniers mails reçus
+- Connexion à la boite mail via SMTP
+- Envoi d'un mail contenant le sujet du dernier mail reçu
+
 Loïc ROBIN
 B3 Dev Groupe B
 
